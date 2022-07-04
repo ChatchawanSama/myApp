@@ -1,6 +1,6 @@
 package myapp;
 
-public class Cat {
+public class Cat implements Animal{
     String name;
     String food;
     public Cat(String name, String food) {
